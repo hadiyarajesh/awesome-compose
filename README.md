@@ -12,8 +12,15 @@
 - [Wiggles](https://github.com/Spikeysanju/Wiggles)
 - [JetPuppy](https://github.com/ericktijerou/jetpuppy)
 - [Petnician](https://github.com/wajahatkarim3/Petnician)
+- [PugDoper](https://github.com/ch8n/PugDoper-Compose-ADC-1)
+- [Puppu App](https://github.com/AbelTarazona/compose-challenge1)
+- [Zoo Compose](https://github.com/GuilhE/Zoo-Compose)
+- [Dog App](https://github.com/mohamedtamer0/AndroidDevChallengeComposeWeek1)
+- [Adopty](https://github.com/2307vivek/Adopty)
 
 
 ## Timer Apps
 - [Counder](https://github.com/sameersyd/Counder)
+- [JetTimer](https://github.com/ericktijerou/jettimer)
+- 
 
