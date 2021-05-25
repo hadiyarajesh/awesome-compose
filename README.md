@@ -28,28 +28,27 @@
 
 
 ## Timer apps
-- [Counder](https://github.com/sameersyd/Counder)
-- [JetTimer](https://github.com/ericktijerou/jettimer)
-- [Deadline](https://github.com/cmargonis/compose-countdown-challenge)
-- [SandTimer](https://github.com/mantas84/Sand-timer)
-- [CountdownTimer](https://github.com/PBK-B/Countdown-timer)
-- [BasketballCountdownTimer](https://github.com/Bruno125/compose-challenge-week-2)
-- [CountdownTimer](https://github.com/opatry/android-dev-challenge-compose-week2)
-- [JPCountdownTimer](https://github.com/moriswala/jp-countdown-timer)
+- [JetTimer](https://github.com/ericktijerou/jettimer) - Timer app clone built with Jetpack Compose and Hilt
+- [TimerApp](https://github.com/cmargonis/compose-countdown-challenge) - An experimentation using the Canvas to draw an hourglass along with the new Compose animation APIs to breath some life into it
+- [SandTimer](https://github.com/mantas84/Sand-timer) - Sand timer app
+- [CountdownTimer](https://github.com/PBK-B/Countdown-timer) - This is a beautiful and easy-to-use countdown application for Android devices
+- [BasketballCountdownTimer](https://github.com/Bruno125/compose-challenge-week-2) - This app allows you to manage the timers for a basketball game
+- [CountdownTimer](https://github.com/opatry/android-dev-challenge-compose-week2) - This app lists timers to launch at will for different needs. Each unit has its own indicator (for hours, minutes and seconds)
+- [JPCountdownTimer](https://github.com/moriswala/jp-countdown-timer) -A single screen working countdown timer in Compose
 
 
 ## Miscellaneous
-- [Bloom](https://github.com/AJIEKCX/ComposeChallenge)
-- [NotyKT](https://github.com/PatilShreyas/NotyKT)
-- [Compose Pokedex](https://github.com/zsoltk/compose-pokedex)
-- [DisneyCompose](https://github.com/skydoves/DisneyCompose)
-- [Jetpack Compose WhatsApp Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone)
-- [JetInstagram](https://github.com/vipulasri/JetInstagram)
-- [JetHub](https://github.com/TakuSemba/JetHub)
-- [JetQuotes](https://github.com/Spikeysanju/JetQuotes)
-- [DinoCOmpose](https://github.com/wajahatkarim3/DinoCompose)
-- [McCompose](https://github.com/hitanshu-dhawan/McCompose)
-- {JetDelivery](https://github.com/vipulasri/JetDelivery)
+- [Bloom](https://github.com/AJIEKCX/ComposeChallenge) - This app built with Jetpack Compose
+- [NotyKT](https://github.com/PatilShreyas/NotyKT) - NotyKT is the complete Kotlin-stack note taking application
+- [Compose Pokedex](https://github.com/zsoltk/compose-pokedex) - Pokedex on Jetpack Compose
+- [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Jetpack Compose
+- [Jetpack Compose WhatsApp Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone) - An example project to demonstrate how to build WhatsApp using Jetpack Compose
+- [JetInstagram](https://github.com/vipulasri/JetInstagram) - JetInstagram is an Instagram UI clone app built with Jetpack Compose
+- [JetHub](https://github.com/TakuSemba/JetHub) - JetHub is a sample app using Github API and Jetpack components
+- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) - A Quotes Application built to Demonstrate the use of Jetpack Compose
+- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) - Chrome's Dino T-Rex game developed in Jetpack Compose
+- [McCompose](https://github.com/hitanshu-dhawan/McCompose) - A McDonald’s app built with Jetpack Compose
+- [JetDelivery](https://github.com/vipulasri/JetDelivery) - JetDelivery is a sample food delivery app, built with Jetpack Compose
 
 
 
