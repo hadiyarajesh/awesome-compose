@@ -6,6 +6,7 @@
 ## Weather apps
 - [Flux](https://github.com/fidloo/flux)
 - [C-Weather](https://github.com/Mercandj/android-dev-challenge-compose-4)
+- [JC-WeatherForecastApp](https://github.com/wiyonoaten/ADC-JC-Wk4WeatherForecastApp)
 
 
 ## Puppy adoption apps
@@ -21,7 +22,7 @@
 - [LovePet](https://github.com/ellisonchan/LovePet)
 - [PupAdopt](https://github.com/mjmanaog/adopt-a-pup)
 - [PetAdoptionApp](https://github.com/emedinaa/compose-challenge-week1)
-- 
+- [Buddy](https://github.com/KwabenBerko/Buddy)
 
 
 ## Timer Apps
@@ -29,4 +30,7 @@
 - [JetTimer](https://github.com/ericktijerou/jettimer)
 - [Deadline](https://github.com/cmargonis/compose-countdown-challenge)
 - [SandTimer](https://github.com/mantas84/Sand-timer)
+- [CountdownTimer](https://github.com/PBK-B/Countdown-timer)
+- [BasketballCountdownTimer](https://github.com/Bruno125/compose-challenge-week-2)
+- [CountdownTimer](https://github.com/opatry/android-dev-challenge-compose-week2)
 
