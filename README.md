@@ -1,6 +1,7 @@
 # Awesome Jetpack Compose apps
-
-![compose_logo](https://github.com/hadiyarajesh/awesome-compose/blob/main/assets/jetpack_compose_logo.png)
+<p align="center">
+  <img src="https://github.com/hadiyarajesh/awesome-compose/blob/main/assets/jetpack_compose_logo.png" width="400">
+</p>
 
 ## Weather apps
 - [Flux](https://github.com/fidloo/flux)
