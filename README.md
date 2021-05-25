@@ -17,10 +17,16 @@
 - [Zoo Compose](https://github.com/GuilhE/Zoo-Compose)
 - [Dog App](https://github.com/mohamedtamer0/AndroidDevChallengeComposeWeek1)
 - [Adopty](https://github.com/2307vivek/Adopty)
+- [JetPup](https://github.com/V9vek/JetPup)
+- [LovePet](https://github.com/ellisonchan/LovePet)
+- [PupAdopt](https://github.com/mjmanaog/adopt-a-pup)
+- [PetAdoptionApp](https://github.com/emedinaa/compose-challenge-week1)
+- 
 
 
 ## Timer Apps
 - [Counder](https://github.com/sameersyd/Counder)
 - [JetTimer](https://github.com/ericktijerou/jettimer)
-- 
+- [Deadline](https://github.com/cmargonis/compose-countdown-challenge)
+- [SandTimer](https://github.com/mantas84/Sand-timer)
 
