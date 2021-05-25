@@ -38,17 +38,18 @@
 
 
 ## Miscellaneous
-- [Bloom](https://github.com/AJIEKCX/ComposeChallenge) - This app built with Jetpack Compose
-- [NotyKT](https://github.com/PatilShreyas/NotyKT) - NotyKT is the complete Kotlin-stack note taking application
-- [Compose Pokedex](https://github.com/zsoltk/compose-pokedex) - Pokedex on Jetpack Compose
-- [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Jetpack Compose
-- [Jetpack Compose WhatsApp Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone) - An example project to demonstrate how to build WhatsApp using Jetpack Compose
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - JetInstagram is an Instagram UI clone app built with Jetpack Compose
+- [JetDelivery](https://github.com/vipulasri/JetDelivery) - JetDelivery is a sample food delivery app, built with Jetpack Compose
+- [Jetpack Compose WhatsApp Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone) - An example project to demonstrate how to build WhatsApp using Jetpack Compose
+- [Compose Pokedex](https://github.com/zsoltk/compose-pokedex) - Pokedex on Jetpack Compose
+- [NotyKT](https://github.com/PatilShreyas/NotyKT) - NotyKT is the complete Kotlin-stack note taking application
+- [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Jetpack Compose
 - [JetHub](https://github.com/TakuSemba/JetHub) - JetHub is a sample app using Github API and Jetpack components
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) - A Quotes Application built to Demonstrate the use of Jetpack Compose
 - [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) - Chrome's Dino T-Rex game developed in Jetpack Compose
 - [McCompose](https://github.com/hitanshu-dhawan/McCompose) - A McDonald’s app built with Jetpack Compose
-- [JetDelivery](https://github.com/vipulasri/JetDelivery) - JetDelivery is a sample food delivery app, built with Jetpack Compose
+- [Bloom](https://github.com/AJIEKCX/ComposeChallenge) - Plant app built with Jetpack Compose
+
 
 
 
