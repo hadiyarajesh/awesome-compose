@@ -5,8 +5,15 @@
 
 ## Weather apps
 - [Flux](https://github.com/fidloo/flux)
+- [C-Weather](https://github.com/Mercandj/android-dev-challenge-compose-4)
+
 
 ## Puppy adoption apps
+- [Wiggles](https://github.com/Spikeysanju/Wiggles)
+- [JetPuppy](https://github.com/ericktijerou/jetpuppy)
+- [Petnician](https://github.com/wajahatkarim3/Petnician)
 
-##
+
+## Timer Apps
+- [Counder](https://github.com/sameersyd/Counder)
 
