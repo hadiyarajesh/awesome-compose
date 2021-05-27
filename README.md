@@ -3,6 +3,17 @@
   <img src="https://github.com/hadiyarajesh/awesome-compose/blob/main/assets/jetpack_compose_logo.png" width="400">
 </p>
 
+## Official Jetpack Compose team app
+- [Jetnews](https://github.com/android/compose-samples/tree/master/JetNews) - Jetnews is a sample news reading app, built with Jetpack Compose
+- [Jetchat](https://github.com/android/compose-samples/tree/master/Jetchat) - Jetchat is a sample chat app built with Jetpack Compose
+- [Jetsurvey](https://github.com/android/compose-samples/tree/master/Jetsurvey) - Jetsurvey is a sample survey app, built with Jetpack Compose
+- [etsnack](https://github.com/android/compose-samples/tree/master/Jetsnack) - Jetsnack is a sample snack ordering app built with Jetpack Compose
+- [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster) - Jetcaster is a sample podcast app, built with Jetpack Compose
+- [Rally](https://github.com/android/compose-samples/tree/master/Rally) - This sample is a Jetpack Compose implementation of Rally, a Material Design study
+- [Crane](https://github.com/android/compose-samples/tree/master/Crane) - Crane is a travel app part of the Material Studies built with Jetpack Compose
+- [Owl](https://github.com/android/compose-samples/tree/master/Owl) - This sample is a Jetpack Compose implementation of Owl, a Material Design study
+
+
 ## Weather apps
 - [Flux](https://github.com/fidloo/flux) - Flux is a dynamic weather that communicates the weather throughout a landscape whose details vary according to the time and the weather at that particular time
 - [C-Weather](https://github.com/Mercandj/android-dev-challenge-compose-4) - Neumorphism simple weather app that support different temperature units and cities
@@ -35,6 +46,7 @@
 - [BasketballCountdownTimer](https://github.com/Bruno125/compose-challenge-week-2) - This app allows you to manage the timers for a basketball game
 - [CountdownTimer](https://github.com/opatry/android-dev-challenge-compose-week2) - This app lists timers to launch at will for different needs. Each unit has its own indicator (for hours, minutes and seconds)
 - [JPCountdownTimer](https://github.com/moriswala/jp-countdown-timer) -A single screen working countdown timer in Compose
+- [Chromie](https://github.com/nezih94/chromie) - Countdown Timer in Jetpack Compose for #AndroidDevChallenge
 
 
 ## Miscellaneous
@@ -48,6 +60,15 @@
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) - A Quotes Application built to Demonstrate the use of Jetpack Compose
 - [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) - Chrome's Dino T-Rex game developed in Jetpack Compose
 - [McCompose](https://github.com/hitanshu-dhawan/McCompose) - A McDonald’s app built with Jetpack Compose
+- [Podcast App](https://github.com/fabirt/podcast-app) - Android podcast app made with Jetpack Compose and ExoPlayer
+- [WallPortal](https://github.com/zedlabs/WallPortal) - Native Android wallpaper application written in Kotlin using Jetpack Compose
+- [Delish](https://github.com/Elbehiry/Delish) - Delish, a Food Recipes App in Jetpack Compose
+- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Spotify/Gaana/Youtube Music Downloader For Android
+- [Updoot](https://github.com/adityam49/Updoot) - A reddit client built for android
+- [Facebook Timeline Compose](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android) - Facebook Timeline in Jetpack Compose
+- [GitReposCompose](https://github.com/iambaljeet/GitReposCompose) - This demo app uses Github public API for fetching public repositories
+- [Stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites
+- [Tivi](https://github.com/chrisbanes/tivi/) - Tivi is TV show tracking Android app, which connects to Trakt.tv.
 - [Bloom](https://github.com/AJIEKCX/ComposeChallenge) - Plant app built with Jetpack Compose
 
 
