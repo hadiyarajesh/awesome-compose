@@ -51,6 +51,7 @@
 
 ## Miscellaneous
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - JetInstagram is an Instagram UI clone app built with Jetpack Compose
+- [JetMessenger](https://github.com/ashar-7/JetMessenger) - Facebook Messenger clone built with Jetpack Compose
 - [JetDelivery](https://github.com/vipulasri/JetDelivery) - JetDelivery is a sample food delivery app, built with Jetpack Compose
 - [Jetpack Compose WhatsApp Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone) - An example project to demonstrate how to build WhatsApp using Jetpack Compose
 - [Compose Pokedex](https://github.com/zsoltk/compose-pokedex) - Pokedex on Jetpack Compose
@@ -68,7 +69,8 @@
 - [Facebook Timeline Compose](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android) - Facebook Timeline in Jetpack Compose
 - [GitReposCompose](https://github.com/iambaljeet/GitReposCompose) - This demo app uses Github public API for fetching public repositories
 - [Stack](https://github.com/tylerbwong/stack) - An Android app for browsing Stack Overflow and other Stack Exchange sites
-- [Tivi](https://github.com/chrisbanes/tivi/) - Tivi is TV show tracking Android app, which connects to Trakt.tv.
+- [Tivi](https://github.com/chrisbanes/tivi/) - Tivi is TV show tracking Android app, which connects to Trakt.tv
+- [SnappCompose](https://github.com/Hessam-Emami/SnappCompose) - A clone of Snapp using Jetpack Compose. Showcasing various usages of Google Maps Animations etc combined with Compose
 - [Bloom](https://github.com/AJIEKCX/ComposeChallenge) - Plant app built with Jetpack Compose
 
 
