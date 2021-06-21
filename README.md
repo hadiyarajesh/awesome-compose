@@ -18,6 +18,7 @@
 - [Flux](https://github.com/fidloo/flux) - Flux is a dynamic weather that communicates the weather throughout a landscape whose details vary according to the time and the weather at that particular time
 - [C-Weather](https://github.com/Mercandj/android-dev-challenge-compose-4) - Neumorphism simple weather app that support different temperature units and cities
 - [JC-WeatherForecastApp](https://github.com/wiyonoaten/ADC-JC-Wk4WeatherForecastApp) - This is the single-screen weather forecast app
+- [Weather-Challenge](https://github.com/chris-horner/weather-challenge) - A weather app that aims to be visually interesting when launched - showing the user an animated scene of their current conditions
 
 
 ## Puppy adoption apps
@@ -47,6 +48,8 @@
 - [CountdownTimer](https://github.com/opatry/android-dev-challenge-compose-week2) - This app lists timers to launch at will for different needs. Each unit has its own indicator (for hours, minutes and seconds)
 - [JPCountdownTimer](https://github.com/moriswala/jp-countdown-timer) -A single screen working countdown timer in Compose
 - [Chromie](https://github.com/nezih94/chromie) - Countdown Timer in Jetpack Compose for #AndroidDevChallenge
+- [Kitchen Timer](https://github.com/GuilhE/KitchenTimer) - A kitchen timer implemented with Jetpack Compose
+- [CountdownClock](https://github.com/zsmb13/CountdownClock) - Entry for Week 2 of the Jetpack Compose Android Dev Challenge [blog](https://zsmb.co/compose-o-clock/)
 
 
 ## Miscellaneous
@@ -72,6 +75,15 @@
 - [Tivi](https://github.com/chrisbanes/tivi/) - Tivi is TV show tracking Android app, which connects to Trakt.tv
 - [SnappCompose](https://github.com/Hessam-Emami/SnappCompose) - A clone of Snapp using Jetpack Compose. Showcasing various usages of Google Maps Animations etc combined with Compose
 - [Bloom](https://github.com/AJIEKCX/ComposeChallenge) - Plant app built with Jetpack Compose
+- [Showkase](https://github.com/airbnb/Showkase) - Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements
+- [Compose Charts](https://github.com/tehras/charts) - This is an exploratory playground library to figure out how to Draw and animate using Android Jetpack Compose library
+- [Compose Tetris](https://github.com/vitaviva/compose-tetris) - A tetris game fully built using Jetpack Compose
+- [Alkaa](https://github.com/igorescodro/alkaa) - Open-source app to manage your tasks quickly and easily
+- [Holi](https://github.com/PatilSiddhesh/Holi) - Holi is a lightweight Jetpack Compose library of colors, gradients and cool utility functions for all your palette needs!
+- [TwitterCompose](https://github.com/iambaljeet/TwitterCompose) - TwitterCompose is an Android application for showcasing Jetpack Compose for building declarative UI in Android
+- [JetStore](https://github.com/pushpalroy/jetstore) - Clone of the Google Playstore app using Jetpack Compose
+- [Bitcoin Market](https://github.com/mertceyhan/bitcoin-market-android) - Bitcoin Market app shows you the current Bitcoin market price and price chart of different time intervals
+- [Podcast-App](https://github.com/fabirt/podcast-app) - Android podcast app made with Jetpack Compose and ExoPlayer
 
 
 
