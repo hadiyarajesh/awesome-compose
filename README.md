@@ -7,7 +7,7 @@
 - [Jetnews](https://github.com/android/compose-samples/tree/master/JetNews) - Jetnews is a sample news reading app, built with Jetpack Compose
 - [Jetchat](https://github.com/android/compose-samples/tree/master/Jetchat) - Jetchat is a sample chat app built with Jetpack Compose
 - [Jetsurvey](https://github.com/android/compose-samples/tree/master/Jetsurvey) - Jetsurvey is a sample survey app, built with Jetpack Compose
-- [etsnack](https://github.com/android/compose-samples/tree/master/Jetsnack) - Jetsnack is a sample snack ordering app built with Jetpack Compose
+- [Jetsnack](https://github.com/android/compose-samples/tree/master/Jetsnack) - Jetsnack is a sample snack ordering app built with Jetpack Compose
 - [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster) - Jetcaster is a sample podcast app, built with Jetpack Compose
 - [Rally](https://github.com/android/compose-samples/tree/master/Rally) - This sample is a Jetpack Compose implementation of Rally, a Material Design study
 - [Crane](https://github.com/android/compose-samples/tree/master/Crane) - Crane is a travel app part of the Material Studies built with Jetpack Compose
@@ -55,6 +55,7 @@
 ## Miscellaneous
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - JetInstagram is an Instagram UI clone app built with Jetpack Compose
 - [JetMessenger](https://github.com/ashar-7/JetMessenger) - Facebook Messenger clone built with Jetpack Compose
+- [TwitterCompose](https://github.com/iambaljeet/TwitterCompose) - TwitterCompose is an Android application for showcasing Jetpack Compose for building declarative UI in Android
 - [JetDelivery](https://github.com/vipulasri/JetDelivery) - JetDelivery is a sample food delivery app, built with Jetpack Compose
 - [Jetpack Compose WhatsApp Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone) - An example project to demonstrate how to build WhatsApp using Jetpack Compose
 - [Compose Pokedex](https://github.com/zsoltk/compose-pokedex) - Pokedex on Jetpack Compose
@@ -80,10 +81,8 @@
 - [Compose Tetris](https://github.com/vitaviva/compose-tetris) - A tetris game fully built using Jetpack Compose
 - [Alkaa](https://github.com/igorescodro/alkaa) - Open-source app to manage your tasks quickly and easily
 - [Holi](https://github.com/PatilSiddhesh/Holi) - Holi is a lightweight Jetpack Compose library of colors, gradients and cool utility functions for all your palette needs!
-- [TwitterCompose](https://github.com/iambaljeet/TwitterCompose) - TwitterCompose is an Android application for showcasing Jetpack Compose for building declarative UI in Android
 - [JetStore](https://github.com/pushpalroy/jetstore) - Clone of the Google Playstore app using Jetpack Compose
 - [Bitcoin Market](https://github.com/mertceyhan/bitcoin-market-android) - Bitcoin Market app shows you the current Bitcoin market price and price chart of different time intervals
-- [Podcast-App](https://github.com/fabirt/podcast-app) - Android podcast app made with Jetpack Compose and ExoPlayer
 
 
 
