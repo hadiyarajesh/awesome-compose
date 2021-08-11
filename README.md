@@ -83,6 +83,9 @@
 - [Holi](https://github.com/PatilSiddhesh/Holi) - Holi is a lightweight Jetpack Compose library of colors, gradients and cool utility functions for all your palette needs!
 - [JetStore](https://github.com/pushpalroy/jetstore) - Clone of the Google Playstore app using Jetpack Compose
 - [Bitcoin Market](https://github.com/mertceyhan/bitcoin-market-android) - Bitcoin Market app shows you the current Bitcoin market price and price chart of different time intervals
+- [MoneyFlow](https://github.com/prof18/MoneyFlow) - A money management Android and iOS app wrote with Kotlin Multiplatform, Jetpack Compose and Swift UI
+- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Desktop, Compose for Web, and Kotlin/JS + React clients along with Ktor backend
+- [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
 
 
 
